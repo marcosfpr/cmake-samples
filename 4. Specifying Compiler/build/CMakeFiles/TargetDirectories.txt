@@ -1,0 +1,2 @@
+/home/marcos/Estudos/cmake/4. Specifying Compiler/build/CMakeFiles/rebuild_cache.dir
+/home/marcos/Estudos/cmake/4. Specifying Compiler/build/CMakeFiles/edit_cache.dir

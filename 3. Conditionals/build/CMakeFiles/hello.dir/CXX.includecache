@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marcos/Estudos/cmake/3. Conditionals/Message.hpp
+iosfwd
+-
+string
+-
+
+/home/marcos/Estudos/cmake/3. Conditionals/hello.cpp
+Message.hpp
+/home/marcos/Estudos/cmake/3. Conditionals/Message.hpp
+cstdlib
+-
+iostream
+-
+

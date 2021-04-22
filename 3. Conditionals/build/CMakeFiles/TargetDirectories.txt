@@ -1,0 +1,4 @@
+/home/marcos/Estudos/cmake/3. Conditionals/build/CMakeFiles/rebuild_cache.dir
+/home/marcos/Estudos/cmake/3. Conditionals/build/CMakeFiles/edit_cache.dir
+/home/marcos/Estudos/cmake/3. Conditionals/build/CMakeFiles/hello.dir
+/home/marcos/Estudos/cmake/3. Conditionals/build/CMakeFiles/message.dir

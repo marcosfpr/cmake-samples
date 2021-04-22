@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/hello.dir/hello.cpp.o  -o hello  -Wl,-rpath,"/home/marcos/Estudos/cmake/3. Conditionals/build" libmessage.so 

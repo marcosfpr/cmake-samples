@@ -1,0 +1,22 @@
+CMake stores compilers for each language in the
+CMAKE_<LANG>_COMPILER variable, where <LANG> is any of the supported languages, for
+our purposes CXX, C, or Fortran. The user can set this variable in one of two ways: 
+
+
+1. By using the -D option in the CLI, for example: 
+
+    $ cmake -D CMAKE_CXX_COMPILER=clang++ ..
+
+2. By exporting the environment variables CXX for the C++ compiler, CC for the C
+compiler, and FC for the Fortran compiler. For example, use this command to use
+clang++ as the C++ compiler: 
+
+    $ env CXX=clang++ cmake ..
+
+
+Where can we find which default compilers and compiler flags will be picked up by
+CMake for our platform? CMake offers the --system-information flag, which will dump
+all information about your system to the screen or a file. To see this, try the following:
+        
+    $ cmake --system-information information.txt
+
