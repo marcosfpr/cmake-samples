@@ -1,0 +1,4 @@
+/home/marcos/Estudos/cmake/2. Linking/shared/build/CMakeFiles/rebuild_cache.dir
+/home/marcos/Estudos/cmake/2. Linking/shared/build/CMakeFiles/edit_cache.dir
+/home/marcos/Estudos/cmake/2. Linking/shared/build/CMakeFiles/hello-world.dir
+/home/marcos/Estudos/cmake/2. Linking/shared/build/CMakeFiles/message.dir

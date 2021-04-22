@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/hello-world.dir/hello.cpp.o  -o hello-world  -Wl,-rpath,"/home/marcos/Estudos/cmake/2. Linking/shared/build" libmessage.so 

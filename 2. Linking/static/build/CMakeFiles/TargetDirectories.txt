@@ -1,0 +1,4 @@
+/home/marcos/Estudos/cmake/2. Linking/static/build/CMakeFiles/rebuild_cache.dir
+/home/marcos/Estudos/cmake/2. Linking/static/build/CMakeFiles/edit_cache.dir
+/home/marcos/Estudos/cmake/2. Linking/static/build/CMakeFiles/hello-world.dir
+/home/marcos/Estudos/cmake/2. Linking/static/build/CMakeFiles/message.dir

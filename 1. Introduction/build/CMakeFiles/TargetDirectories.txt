@@ -1,0 +1,3 @@
+/home/marcos/Estudos/cmake/1. Introduction/build/CMakeFiles/rebuild_cache.dir
+/home/marcos/Estudos/cmake/1. Introduction/build/CMakeFiles/edit_cache.dir
+/home/marcos/Estudos/cmake/1. Introduction/build/CMakeFiles/hello-world.dir
