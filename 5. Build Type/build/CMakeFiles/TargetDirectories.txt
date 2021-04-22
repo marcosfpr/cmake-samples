@@ -1,0 +1,2 @@
+/home/marcos/Estudos/cmake/5. Build Type/build/CMakeFiles/rebuild_cache.dir
+/home/marcos/Estudos/cmake/5. Build Type/build/CMakeFiles/edit_cache.dir

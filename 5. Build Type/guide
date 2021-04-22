@@ -1,0 +1,15 @@
+CMake has the notion of build types or configurations, such as Debug, Release, and so
+forth.  The variable governing the configuration to be used when generating the build system is CMAKE_BUILD_TYPE.
+This variable is empty by default, and the values recognized by CMake are: 
+
+1. Debug for building your library or executable without optimization and with debug
+symbols, 
+
+2. Release for building your library or executable with optimization and without
+debug symbols, 
+
+3. RelWithDebInfo for building your library or executable with less aggressive
+optimizations and with debug symbols, 
+
+4. MinSizeRel for building your library or executable with optimizations that do not
+increase object code size. 
