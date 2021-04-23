@@ -1,0 +1,21 @@
+
+# Adding compiler flags
+# options can be:
+    # PRIVATE: compile options will only be applied to the given target and not to other targets consuming it.
+    # INTERFACE: compile options on a given target will only be applied to targets consuming it. 
+    # PRIVATE: compile options will be applied to the given target and all other targets consuming it. 
+
+The visibility levels of target properties are at the core of a modern usage of CMake
+and we will revisit this topic often and extensively throughout the book. Adding
+compile options in this way does not pollute the CMAKE_<LANG>_FLAGS_<CONFIG> global
+CMake variables and gives you granular control over what options are used on which
+targets. 
+
+How can we verify whether the flags are correctly used as we intended to? Or in other
+words, how can you discover which compile flags are actually used by a CMake project?
+One approach is the following and it uses CMake to pass additional arguments, in this
+case the environment variable VERBOSE=1, to the native build tool.
+
+
+Approach with no modifications on CMakeLists:
+$ cmake -D CMAKE_CXX_FLAGS="-fno-exceptions -fno-rtti" ..

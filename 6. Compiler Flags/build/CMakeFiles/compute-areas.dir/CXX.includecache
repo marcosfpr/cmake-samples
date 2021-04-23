@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marcos/Estudos/cmake/6. Compiler Flags/compute-areas.cpp
+geometry_circle.hpp
+/home/marcos/Estudos/cmake/6. Compiler Flags/geometry_circle.hpp
+geometry_polygon.hpp
+/home/marcos/Estudos/cmake/6. Compiler Flags/geometry_polygon.hpp
+geometry_rhombus.hpp
+/home/marcos/Estudos/cmake/6. Compiler Flags/geometry_rhombus.hpp
+geometry_square.hpp
+/home/marcos/Estudos/cmake/6. Compiler Flags/geometry_square.hpp
+cstdlib
+-
+iostream
+-
+
+/home/marcos/Estudos/cmake/6. Compiler Flags/geometry_circle.hpp
+
+/home/marcos/Estudos/cmake/6. Compiler Flags/geometry_polygon.hpp
+
+/home/marcos/Estudos/cmake/6. Compiler Flags/geometry_rhombus.hpp
+
+/home/marcos/Estudos/cmake/6. Compiler Flags/geometry_square.hpp
+

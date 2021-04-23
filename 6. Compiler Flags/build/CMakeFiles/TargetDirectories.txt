@@ -1,0 +1,4 @@
+/home/marcos/Estudos/cmake/6. Compiler Flags/build/CMakeFiles/rebuild_cache.dir
+/home/marcos/Estudos/cmake/6. Compiler Flags/build/CMakeFiles/edit_cache.dir
+/home/marcos/Estudos/cmake/6. Compiler Flags/build/CMakeFiles/compute-areas.dir
+/home/marcos/Estudos/cmake/6. Compiler Flags/build/CMakeFiles/geometry.dir
