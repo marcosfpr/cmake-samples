@@ -1,0 +1,4 @@
+/home/marcos/Estudos/cmake/7. Language Standards/build/CMakeFiles/edit_cache.dir
+/home/marcos/Estudos/cmake/7. Language Standards/build/CMakeFiles/rebuild_cache.dir
+/home/marcos/Estudos/cmake/7. Language Standards/build/CMakeFiles/animal-farm.dir
+/home/marcos/Estudos/cmake/7. Language Standards/build/CMakeFiles/animals.dir

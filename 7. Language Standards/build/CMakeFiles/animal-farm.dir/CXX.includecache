@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marcos/Estudos/cmake/7. Language Standards/Animal.hpp
+string
+-
+
+/home/marcos/Estudos/cmake/7. Language Standards/Cat.hpp
+Animal.hpp
+/home/marcos/Estudos/cmake/7. Language Standards/Animal.hpp
+
+/home/marcos/Estudos/cmake/7. Language Standards/Dog.hpp
+Animal.hpp
+/home/marcos/Estudos/cmake/7. Language Standards/Animal.hpp
+
+/home/marcos/Estudos/cmake/7. Language Standards/Factory.hpp
+cstdio
+-
+cstdlib
+-
+map
+-
+sstream
+-
+string
+-
+type_traits
+-
+
+/home/marcos/Estudos/cmake/7. Language Standards/animal-farm.cpp
+Animal.hpp
+/home/marcos/Estudos/cmake/7. Language Standards/Animal.hpp
+Cat.hpp
+/home/marcos/Estudos/cmake/7. Language Standards/Cat.hpp
+Dog.hpp
+/home/marcos/Estudos/cmake/7. Language Standards/Dog.hpp
+Factory.hpp
+/home/marcos/Estudos/cmake/7. Language Standards/Factory.hpp
+cstdlib
+-
+functional
+-
+iostream
+-
+memory
+-
+

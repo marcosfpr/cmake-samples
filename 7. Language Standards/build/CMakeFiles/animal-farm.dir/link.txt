@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/animal-farm.dir/animal-farm.cpp.o  -o animal-farm  -Wl,-rpath,"/home/marcos/Estudos/cmake/7. Language Standards/build" libanimals.so 
